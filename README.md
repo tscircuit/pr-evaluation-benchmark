@@ -74,10 +74,3 @@ expected_impact = "Major|Minor|Tiny"
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Links
-
-- [Documentation](https://docs.tscircuit.com)
-- [Website](https://tscircuit.com)
-- [Twitter](https://x.com/tscircuit)
-- [Discord](https://tscircuit.com/community/join-redirect)
