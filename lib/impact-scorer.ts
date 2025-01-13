@@ -28,7 +28,7 @@ export const ImpactScorer = createScorer<
     impact: string
   }
 >({
-  name: "circuit_scorer",
+  name: "impact_scorer",
   description: "Evaluates circuit code for presence of key components",
   scorer: ({ input, output }) => {
     if (!output.impact) {
